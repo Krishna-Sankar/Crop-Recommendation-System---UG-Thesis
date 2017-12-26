@@ -1,0 +1,11 @@
+%   Distribution code Version 1.0 -- 01/01/2015 by Mehmet Altan Toksöz, Copyright 2015, Middle East Technical University, Turkey.
+%
+%   The Code is created based on the method described in the following papers: 
+%   [1] M. A. Toksoz and I. Ulusoy, “Hyperspectral image classification via basic thresholding classifier,” 
+%   IEEE Transactions on Geoscience and Remote Sensing, 2016, doi:10.1109/TGRS.2016.2535458.
+%   [2] M. A. Toksoz and I. Ulusoy, “Classification via ensembles of basic thresholding
+%   classifiers,” IET Computer Vision, 2016, doi:10.1049/ietcvi.2015.0077.
+%   Please cite them.
+%
+%   The code and the algorithm are for non-comercial use only.
+%   The BTC-WLS algorithm (spatial-spectral) requires wlsFilter which can be obtained from %   http://www.cs.huji.ac.il/~danix/epd/
